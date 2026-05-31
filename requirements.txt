@@ -2,11 +2,6 @@ pandas
 numpy
 scipy
 scikit-learn
-xgboost
-ortools
 folium
-plotly
 tqdm
-boto3
-awscli
 ijson

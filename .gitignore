@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Local data and outputs
+data/
+*.zip
+*.tar
+*.tar.gz
+*.tgz
+
+# Generated artifacts
+results/*
+!results/.gitkeep
+figures/*
+!figures/.gitkeep
+
+# OS/editor
+.DS_Store
+.vscode/
+.idea/
